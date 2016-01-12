@@ -1,4 +1,4 @@
-# React with JSPM.io
+# Angular 2 5 minute quickstart (with Typescript)
 
 Simple starter for Angular 2 with Typescript
 
